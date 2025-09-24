@@ -83,14 +83,6 @@ python src/detect_mask.py --model results/mask_model.pth
 
 * Achieved **\~98% accuracy** on validation set.
 * Real-time detection runs at **\~20 FPS** on CPU.
-
-**Sample Outputs:**
-
-| Image                                  | Prediction     |
-| -------------------------------------- | -------------- |
-| ![mask](results/sample_mask.png)       | With Mask ✅    |
-| ![no\_mask](results/sample_nomask.png) | Without Mask ❌ |
-
 ---
 
 ## 🛠️ Tech Stack
